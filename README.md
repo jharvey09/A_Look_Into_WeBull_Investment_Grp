@@ -27,29 +27,29 @@ Case Study on WeBull Investment platform
 
 ## Landscape:
 
-* What domain of the financial industry is the company in? The domain that this platform coinducts in is Investing and Banking. 
+* The domain that this platform conducts in is Investing and Banking. 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years? Within the last 5 years over 88% of incumbent financial instutions belioeve that thier business will be stolen by FinTech companies. Globally fintech complainies have acquired $25.6 billion in investments in H1 2020. Digital banking has increased by 46% amongst the peoiple whio use them soley for financial needs. 77% of traditional financial insttutions have focused or plan to focus on innovations to retain cutomers, a great example is CHIME. an online banking platform ran by a incubent fiaincial instituiton such as JP Morgan Chase. Didgital payments grew from $4.1 trillion in 2019 to 5.2 trillion in 2020, a $1.1 trillion in growth in a year span. 
 
-* What are the other major companies in this domain?  I compiled a list of the top fintech companies "Stripe, Ripple, Coinbase, Robinhood, Chime, Plaid, Sofi, Credit Karma, Opendoor, Root
+* I compiled a list of the top fintech companies who operate inside this domain "Ripple, Coinbase, Robinhood, Chime,  Credit Karma
 
 
 ## Results
 
-* What has been the business impact of this company so far? The impact of WeBull is that it has embraced or capsulized a way to encourage younger investors to join their platform. With option trading, crytpocurrency, money management, international ,market trading, forex currency trading, etc. 
+* The impact of WeBull presence is that it has embraced or capsulized a way to encourage younger investors to join their platform. With option trading, crytpocurrency, money management, international ,market trading, forex currency trading, etc. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? Webull set defined goals for brand awareness, consideration and user acquisition, and then tracked success through specific metrics such as app downloads, account registrations, account top-ups and top-up value
+* Some of the core methods that assisted Webull set defined goals for brand awareness, consideration and user acquisition, and then tracked success through specific metrics such as app downloads, account registrations, account top-ups and top-up value. According to matket research, WeBull has grown beyond reason. Something never heard of as an international company also a Chinese company launching in the US
 
-* How is your company performing relative to competitors in the same domain? WeBull is celebrating their 3 year anniversary. They have accumulated over a million subscriberas and has even takn a bout a third of the competitors (ROBINHOOD) customers when they hit a snag between the clearinghouse and the investments when GME and AMC were being shorted.
+* How is your company performing relative to competitors in the same domain? WeBull is celebrating their 3 year anniversary. They have accumulated over a 3 million subscribers and has even taken about a third of the competitors (ROBINHOOD) 13 million customers when they hit a snag between the clearinghouse and the investments when GME and AMC were being shorted.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) I would offer youth trading and youth trading modules. Encourgament of trading from teenages and building the knowledge in free beginner courses on the platform for 1st time and early learners.
+* Upon observation, I would introduce a program I created entitled "U_Invest". A program that would initiate a trading module and cryptocurrency curriculum to students as young as 14, all the way to up until collegiate stages. Also, I would offer youth trading and youth trading modules to accomapany the learning modules. Encourgament of trading from teenages and building the knowledge in free beginner courses on the platform for 1st time and early learners.
 
-* Why do you think that offering this product or service would benefit the company? It would be benefical due to adding a market of investors that habvent been tapped into by this platform. An idea Recently introduced by FIDELITY was to add teen investing.
+* It would be benefical to ensure that the youth can be guided effectivley towards a successful life. Beginning with the tools that can help them become financially responsible, could ensure a brighter future. Financial educatiuon is something thats insn't in todays learning curriculum outside of advanced studies. Adding thaat we are bringing a market of investors that haven't been tapped into by this platform. An idea Recently introduced by FIDELITY was to add teen investing, i would do that with the added education to surpass the competition.
 
-* What technologies would this additional product or service utilize?
+* What technologies would this additional product or service utilize? The additional technologies that this product would use, would be the most powerful tool that is used to engage anyone from the ages of 10-25, SOCIAL MEDIA. Social media would be a great tool to use as an everday platform and not just for advertisment purposes. Classes, Live Seminar's, Instructional Groups can be a facet of revenue as well be a tool to attract the younger audeince that the product is meant to grasp the attention of. 
 
-* Why are these technologies appropriate for your solution?
+* Why are these technologies appropriate for your solution? This technology would be appropiate for the younger audience due to the fact that the audience is already gravtitated to the umbrella that the project would fall under. Social media has a range of fail safe mechinisms to prtoect against fraudulence, as well as age consents that are already in place with tools for parents to use at their discretion.
 
