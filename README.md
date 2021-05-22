@@ -1,4 +1,5 @@
-# Case_Study_Homework
+# Case Study Homework
+
 Case Study on WeBull Investment platform
 
 ## Overview and Origin
