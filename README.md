@@ -41,7 +41,7 @@ Case Study on WeBull Investment platform
 
 * Some of the core methods that assisted Webull set defined goals for brand awareness, consideration and user acquisition, and then tracked success through specific metrics such as app downloads, account registrations, account top-ups and top-up value. According to matket research, WeBull has grown beyond reason. Something never heard of as an international company also a Chinese company launching in the US
 
-* How is your company performing relative to competitors in the same domain? WeBull is celebrating their 3 year anniversary. They have accumulated over a 3 million subscribers and has even taken about a third of the competitors (ROBINHOOD) 13 million customers when they hit a snag between the clearinghouse and the investments when GME and AMC were being shorted.
+* WeBull is celebrating their 3 year anniversary. They have accumulated over a 3 million subscribers and has even taken about a third of the competitors (ROBINHOOD) 13 million customers when they hit a snag between the clearinghouse and the investments when GME and AMC were being shorted.
 
 
 ## Recommendations
@@ -50,7 +50,7 @@ Case Study on WeBull Investment platform
 
 * It would be benefical to ensure that the youth can be guided effectivley towards a successful life. Beginning with the tools that can help them become financially responsible, could ensure a brighter future. Financial educatiuon is something thats insn't in todays learning curriculum outside of advanced studies. Adding thaat we are bringing a market of investors that haven't been tapped into by this platform. An idea Recently introduced by FIDELITY was to add teen investing, i would do that with the added education to surpass the competition.
 
-* What technologies would this additional product or service utilize? The additional technologies that this product would use, would be the most powerful tool that is used to engage anyone from the ages of 10-25, SOCIAL MEDIA. Social media would be a great tool to use as an everday platform and not just for advertisment purposes. Classes, Live Seminar's, Instructional Groups can be a facet of revenue as well be a tool to attract the younger audeince that the product is meant to grasp the attention of. 
+* The additional technologies that this product would use, would be the most powerful tool that is used to engage anyone from the ages of 10-25, SOCIAL MEDIA. Social media would be a great tool to use as an everday platform and not just for advertisment purposes. Classes, Live Seminar's, Instructional Groups can be a facet of revenue as well be a tool to attract the younger audeince that the product is meant to grasp the attention of. 
 
-* Why are these technologies appropriate for your solution? This technology would be appropiate for the younger audience due to the fact that the audience is already gravtitated to the umbrella that the project would fall under. Social media has a range of fail safe mechinisms to prtoect against fraudulence, as well as age consents that are already in place with tools for parents to use at their discretion.
+* This technology would be appropiate for the younger audience due to the fact that the audience is already gravtitated to the umbrella that the project would fall under. Social media has a range of fail safe mechinisms to prtoect against fraudulence, as well as age consents that are already in place with tools for parents to use at their discretion.
 
