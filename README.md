@@ -1,4 +1,4 @@
-# Case Study of Existing and Upcoming Fintech Companies
+# Case Study of WeBull Investment Group
 
 Case Study on WeBull Investment platform
 
