@@ -1,4 +1,4 @@
-# Case Study Homework
+# Case Study of Existing and Upcoming Fintech Companies
 
 Case Study on WeBull Investment platform
 
