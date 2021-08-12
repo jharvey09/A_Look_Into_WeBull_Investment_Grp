@@ -35,7 +35,7 @@ Case Study on WeBull Investment platform
 * I compiled a list of the top fintech companies who operate inside this domain "Ripple, Coinbase, Robinhood, Chime,  Credit Karma
 
 
-## Results
+## Results:
 
 * The impact of WeBull presence is that it has embraced or capsulized a way to encourage younger investors to join their platform. With option trading, crytpocurrency, money management, international ,market trading, forex currency trading, etc. 
 
@@ -44,7 +44,7 @@ Case Study on WeBull Investment platform
 * WeBull is celebrating their 3 year anniversary. They have accumulated over a 3 million subscribers and has even taken about a third of the competitors (ROBINHOOD) 13 million customers when they hit a snag between the clearinghouse and the investments when GME and AMC were being shorted.
 
 
-## Recommendations
+## Recommendations:
 
 * Upon observation, I would introduce a program I created entitled "U_Invest". A program that would initiate a trading module and cryptocurrency curriculum to students as young as 14, all the way to up until collegiate stages. Also, I would offer youth trading and youth trading modules to accomapany the learning modules. Encourgament of trading from teenages and building the knowledge in free beginner courses on the platform for 1st time and early learners.
 
