@@ -1,4 +1,4 @@
-# Case Study of WeBull Investment Group
+# A Look Into WeBull Investment Group
 
 Case Study on WeBull Investment platform
 
